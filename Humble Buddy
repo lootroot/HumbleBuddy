@@ -1,0 +1,6 @@
+https://humblebundlenotifications.azurewebsites.net/api/RegisterWebhook
+{
+    "type" : 0,
+    "webhook" : "https://discordapp.com/api/webhooks/385149290332553227/_Lu365CEKd6mSODBkOXaQXI4afuTAN0LmaFTSbvaAyyZw1Sw9AQhrcxY5JWF_CRNjM9q",
+    "sendUpdates" : true
+}
