@@ -1,0 +1,11 @@
+https://humblebundlenotifications.azurewebsites.net/api/RegisterWebhook
+{
+    "type" : <Valid Type Code>,
+    "webhook" : "<YOUR DISCORD WEBHOOK URL>",
+    "sendUpdates" : <true|false>
+}
+{
+    "type" : 0,
+    "webhook" : "https://discordapp.com/api/webhooks/abcd123...",
+    "sendUpdates" : true
+}
